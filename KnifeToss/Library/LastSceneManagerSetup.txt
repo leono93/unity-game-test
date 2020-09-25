@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/KnifeToss.unity
+  isLoaded: 1
+  isActive: 1
